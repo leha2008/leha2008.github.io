@@ -20,6 +20,4 @@ Tell them where to go, how often they can expect to get an update on a
 reported vulnerability, what to expect if the vulnerability is accepted or
 declined, etc.
 
-Вообще не пойму что это такое.
-Эмм.. ну ок GitHub сам за меня всё написал, пойду
-Победу)
+
